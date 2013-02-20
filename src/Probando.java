@@ -31,4 +31,8 @@ public int getPoblacion(){
 public void setPoblacion(int poblacion){
 this.poblacion=poblacion;	
 }
+public void mensaje(){
+	
+	System.out.println("hola");
+}
 }
